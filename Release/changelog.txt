@@ -1,0 +1,304 @@
+v2.21
+* Removed all trader crates that require crossing now live minefield
+
+v2.20
+* Replaced sinpers firing into strip of death betwen town and factory with live minefield as It makes more sense
+* Added Mine Detector into spawnable loot (rare) and trader
+
+v2.10
+* Fixed broken death screams and AI taunts due latest playSound3D changes
+* Boosted player voice a bit during trader dialogues
+
+v2.00
+* Replaced addWeaponCargoGlobal with addWeaponWithAttachmentsCargoGlobal to solve base weapon classes with linked items (for example MX SW)
+* Added MX SW
+* Added 100 round magazine for MX SW
+
+v1.99
+* Disabled leaflet reinit on client setup
+
+v1.98
+* Enabled createVehicleLocal after ARMA3 1.95 patch
+
+v1.97
+* English text corrections (thanks to PumpyHead (BenchmarkSims))
+
+v1.96
+* Fixed bug in SP time persistence
+
+v1.95
+* Lowered player/trader voiceovers volume
+* Introduced CTRG uniforms
+* Introduced ADR-97
+
+v1.94
+* Combine magazines stash action now triggers profile save
+
+v1.93
+* Changed constant save profile spamming when in hideout to event based saving (on open inventory and so on...)
+
+v1.92 
+* Implemented persistent time flow for singleplayer mode 
+* Minimized overleaping CSAT sniper fires cacophony 
+* Tied breath fog to temperature simulation 
+* Implemented shivering from cold weather - do not wear short sleeves in cold temp 
+
+v1.91
+* Added trader loyalty discount, for every successfully finished deal you gain +5% discount (max 50%), for ever failed one you lose -10% - discount will carry on to new character upon death - trader doesn't forget previous hideout owner achievements ;)
+
+v1.90
+* Reworked night detection (used by AIs to turn on flashlight or wear NVG) - It uses sun elevation now.
+* Reworked AI chemlight/flashlight/NVG usage
+
+v1.89
+* Optimized furniture for better performance (turned into simple objects/disabled simulation and damage)
+
+v1.88
+* Player enters/exits hideout with weapon down
+
+v1.87
+* Fixed optics view leftover when entering/exiting hideout
+
+v1.86
+* Guerilla Boss and his guard always have weapon flashlight
+* Guerilla Boss and his guard have better chance for weapon attachments
+
+v1.85
+* Improved Guerilla Boss spawning
+* Added missing Guerilla Boss beret to trader list
+
+v1.84
+ * Added random Guerilla Boss with his guards - they can be identified by their uniforms based on former AAF uniforms - they are elites, sharp and have good guns!
+* Rebalanced scoring
+* Fixed situation when AI forgets to go prone over sniper fields
+
+v1.83
+* Added hint to open MAP>TASKS for deal info as it was not so clear for players where to deliver/pickup stuff
+
+v1.82
+* Fixed "*** <NULL-object> killed 4945e400# 1814759: cratesplastic_f.p3d" caused by badly positioned furniture
+* Added abandoned cars with random loot
+* Added Protector SMG
+* Added AKM
+* Fixed SMG sound silencers for AI
+
+v1.81
+* Code loops optimization
+* Trader added - you need find radio and bring it back to shelter
+* Completely voiced trader and player
+* CSAT UAV loiters above town during a day when CSAT SF team is deployed (green flare during a night)
+* AI sets flashlight off when it finds and wears NVG
+* AI loots weapons from dead bodies
+* Added SMG sight versions
+
+v1.80
+* Enhanced player positioning at spawn
+* Fixed bug causing AI that decided to loot dead body gets killed before it finishes looting will never be looted by other AIs
+
+v1.79
+* Added mission parameters that can be changed in MP Lobby parameters dialog for hosted MP or via params class in dedicated server config file
+
+v1.78
+* Added option to clear corresponding SP/MP save data from user profile - use hideout white plastic canister
+* Reworked save system - old saves will be converted automatically
+* Added Player is renegade indication to shelter status
+* Added basic random loot spawning
+* AI doesn't wear NVG during day and equip/un-equip NVG accordingly to night/day cycle
+* Added COMBAT REALISM SCRIPTS By Phronk (Fragmentation Grenade)
+* Added Mag-Repack by Outlawled (default key Ctrl+R)
+* City buildings damage is always same (always same pseudo random seed)
+* CSAT Drone added to scoring system
+* Attached chemlights are removed upon extraction
+* Fixed bad animation (take a launcher anim instead draw pistol) after body search (vanilla ARMA 3 anim bug)
+* Reworked search body result notification
+* Added notification when you beat your top score or added to server Top Ten
+
+v1.77
+* Reworked score system
+* Added detailed score report after successful extraction
+* Balanced taunt sound volumes
+
+v1.76
+* Fixed stash crate content duplication for containers with predefined content - for example backpacks
+
+v1.75
+* Upped little AI NATO Survivors skill 
+* Added MIA (Missing In Action) outcome when player quits or runs out of raid time when in Town
+* Added end of raid effect - it have something to do with CSAT secret operations around town
+
+v1.74
+* Fixed constant FPS loss over time caused by breath fog script
+
+v1.73
+* Added new voice taunts especially for AIs with covered mouth with bandana
+
+v 1.72
+* Added more AI taunt voices
+
+v1.71
+* Added random AI taunts
+* Little internal code beautification
+
+v1.70
+* No bad karma for killing renegade players
+
+v1.69
+* Added random AI NATO renegade survivors
+
+v1.68
+* Fixed player UI inits too early in MP - no more mission UI superimposed over loading screen
+* Added random friendly AI NATO survivors - think twice before pull the trigger or accept consequences
+
+v1.67
+* Fixed multiple dying screams upon death that caused scary cacophony
+
+v1.66
+* Random damage to all houses to improve better siege atmosphere
+
+v1.65
+* Added random MRD pistol sight to guerilla weapon boxes
+
+v1.64
+* AI faction changes - no more blue side guerilla
+
+v1.63
+* CSAT NVGs are newer type - not degraded - another reason to hunt them down
+
+v1.62
+* CSAT SF team uses IR beams during night
+* Breath fog effect is now applied to CSAT SF team
+
+v1.61
+* Added breath fog (for example during heavy rain)
+* Fixed zone snipers never activate
+* Extraction is aborted when player became INCAPACITATED
+
+v1.59
+* Town exits limited to 3
+* AI searches buildings now
+* Fixed sniper zones evaluation for AI
+* AI count set to 12
+
+v1.57
+* Added mine signs to Dead Zone (originally CSAT minefield - now cleared) between town and factory.
+* Various scenery updates
+* Reworked hunger effect - bit more serious when ignored
+* Added hunger status into shelter status bar
+
+v1.56
+* Snipers always miss with first round to warn victim (player)
+* Added AKS and AK-12 to random weapon caches
+
+v1.55
+* Reworked town entry points
+* CSAT SF Team insertion more rare
+* Random weapon caches limited to 2
+
+v1.54
+* Fixed NVG when shelter camera view is activated
+* Even more rare AI food loot
+* Less AI in town
+
+v1.53
+* Reworked search result form hint into pop-up notification
+* Added possibility to abort search action with any movement keys (W/A/S/D by default)
+* Fixed low stamina effects wrongly applied to new character after death
+* AI now steals NVG goggles from dead bodies
+* Fixed first person forcing
+
+v1.52
+* Player starts sitting on sleeping bag now
+
+v1.51
+* AI with food is more rare now
+* Added additional INCAPACITATED check to player alive checks
+* Added Vermin SMG integral flashlight attachment as default (ARMA 3 update changed it to optional attachment)
+
+v1.50
+* Added more car wrecks and barricades
+
+v1.49
+* AI waypoint fixes
+
+v1.48
+* Added C to change camera angle to shelter camera so you can enjoy your backpack now
+
+v1.47
+* Added custom CSAT leaflet
+* Fixed blank leaflets on the ground after JIP connect
+
+V1.46
+* During a windless rainless day CSAT drops leaflets over city
+
+v1.45
+* AI clothes and backpacks expanded a little
+
+v1.44
+* Another try to fix unstable weather
+
+v1.43
+* Lowered default guerrilla limit to 10
+* Added KIA notification
+* Reinforced player state save
+
+v1.42
+* Removed forgotten debug text
+
+v1.41
+* Fixed weather to not change back to calm over time
+* Removed Rabbits & Snakes
+
+v1.40
+* AI searches and loots dead bodies now
+
+v1.35
+* Changed AI loadouts and loot to make a bit more challenging to get geared up
+* Added some new starting positions
+
+v1.34
+* Added CSAT SF Recon team to scoring (Worth of 100 point + 500 if dogtag is collected)
+
+v1.33
+* Ooops! Running main mission timer twice - on server and also on client. Fixed now.
+
+v1.31
+* Removed forgotten debug code ;)
+
+v1.30
+* Reworked mission timing to honor singleplayer pause
+* Fixed one badly placed stray weapon box
+
+v1.20
+* Fixed green flare during CSAT SF Recon team deployment
+
+v1.19
+* Fixed bug that prevented CSAT SF Recon team to actually appears
+* AI use chemlights randomly during night
+* Optimized static scenery objects
+
+v1.18
+* AI has only weapons with light during night
+
+v1.15
+* Fixed bug in AI generator
+
+v1.10
+* Enhanced AI waypoint completion
+* Added random CSAT SF Recon team insertion and town sweep
+
+v1.04
+* Added little present for fashion geeks - check hand camera on hideout table
+
+v1.03
+* Removed leftover temp scenery
+* Fine-tuned CSAT night flare
+* Food is more rare to be carried by AI
+
+v1.02
+* More robust "Search Body" and "Take Food" actions
+ 
+v1.01
+* Fixed "Search Body" action so first player that searches it doesn't block action forever for all other players
+ 
+v1.0
+* Release!

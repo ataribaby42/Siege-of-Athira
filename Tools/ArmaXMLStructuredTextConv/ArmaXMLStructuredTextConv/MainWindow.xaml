@@ -1,0 +1,22 @@
+﻿<Window x:Class="ArmaXMLStructuredTextConv.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArmaXMLStructuredTextConv"
+        mc:Ignorable="d"
+        Title="Arma XML Structured Text Conventer" Height="600" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBox x:Name="text" AcceptsReturn="True" TextWrapping="Wrap" Grid.Column="0" Margin="2" />
+
+        <StackPanel Grid.Column="1" Orientation="Vertical">
+            <Button x:Name="buttonTo" Content="To XML" Margin="2" Click="buttonTo_Click"/>
+            <Button x:Name="buttonFrom" Content="From XML" Margin="2" Click="buttonFrom_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

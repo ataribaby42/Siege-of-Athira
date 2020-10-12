@@ -1,0 +1,20 @@
+private["_fbang","_bangPosATL","_bangPosASL"];
+	_fbang=_this;
+	waitUntil{vectorMagnitude velocity _fbang==0};
+	sleep 1;
+	waitUntil{vectorMagnitude velocity _fbang==0};
+	_bangPosATL=getPosATL _fbang;
+	_bangPosASL=getPosASL _fbang;
+	waitUntil{isNull _fbang};
+	private _light=createVehicle["#lightpoint",_bangPosATL,[],0,"can_collide"];
+	_light setPosATL[(_bangPosATL select 0),(_bangPosATL select 1),(_bangPosATL select 2)+0.2]; 
+	_light setLightColor[1,1,1]; 
+	_light setLightAmbient[1,1,1]; 
+	_light setLightBrightness 1.3;
+private _nU1=_bangPosATL nearEntities["Man",18];
+	{private _vis1=[objNull,"VIEW"]checkVisibility[eyePos _x,_bangPosATL];
+	private _vis2=[objNull,"VIEW"]checkVisibility[eyePos _x,_bangPosASL];
+	if(_vis1>0.04 || _vis2>0.04)then{_x remoteExec["CRS_Flashed",0,true];};//true may not be necessary
+	}forEach _nU1;
+	sleep .2;
+	deleteVehicle _light;

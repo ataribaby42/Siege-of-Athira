@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="SiegeOfAthira">
+	<Package name="MissionTexts">
+		<Container name="GeneralTexts">
+			<Key ID="STR_MissionName">
+				<English>Siege of Athira</English>
+				<Czech>Obležení Athíry</Czech>
+			</Key>
+			<Key ID="STR_MissionOverview">
+				<English>Year 2035. Linger and survive in the besieged Town of Athira.</English>
+				<Czech>Rok 2035. Držte se a přežijte v obléhané Athíře.</Czech>
+			</Key>
+			<Key ID="STR_MissionLoadingOverview">
+				<English>Linger and survive in the besieged Town of Athira.</English>
+				<Czech>Držte se a přežijte v obléhané Athíře.</Czech>
+			</Key>
+			<Key ID="STR_MissionMPSummary">
+				<English>Linger and survive in the besieged Town of Athira.</English>
+				<Czech>Držte se a přežijte v obléhané Athíře.</Czech>
+			</Key>
+			<Key ID="STR_Diary">
+				<English>Diary</English>
+				<Czech>Diář</Czech>
+			</Key>
+			<Key ID="STR_DiarySituationTitle">
+				<English>Situation</English>
+				<Czech>Situace</Czech>
+			</Key>
+			<Key ID="STR_DiarySituation">
+				<English>
+In 2035, following the lightning invasion of CSAT units and AAF government forces against Altis, NATO peacekeepers are defeated. As a survivor of a NATO soldier you find yourself in the besieged city of Athíra. All the original inhabitants were either killed or long gone, and the city morphed into a tightly sealed war zone. There they fight for the survival of a group or individuals from among NATO soldiers and members of FIA guerrilla troops. Once former allies, they now find themselves as rivals trying to survive in the beleaguered city.  Why the CSAT city is under siege instead of being bombed or directly attacked is a big mystery for all its inhabitants.  There must be a reason for this, for otherwise CSAT would not bother with the siege of an insignificant city in the middle of Altis.
+&lt;br/&gt;&lt;br/&gt;
+The city is sealed and the effort to escape is equivalent to a death sentence at the hands of CSAT snipers. Beware of minefield between the factory complex and the city. There are rumors that, with a little luck, it is possible to go to the factory and back, but at great risk to one’s life. At night CSAT flares cover the town, apparently to help the light targets for the awaiting snipers.
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\map_en.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+There are still canned provisions in the city and guerrillas have scattered crates full of equipment all over the city.
+&lt;br/&gt;&lt;br/&gt;
+There are rumors circulating about a mysterious merchant. Just find a way to contact him.
+&lt;br/&gt;&lt;br/&gt;
+How long will you survive there?  How many times will you be lucky enough to return to your underground shelter in the basement of one of the houses?
+&lt;br/&gt;&lt;br/&gt;
+Good Luck!
+				</English>
+				<Czech>
+Rok 2035, po bleskové invazi CSAT jednotek za pomoci vládních sil AAF na Altis jsou mírové jednotky NATO poraženy a jako přeživší NATO voják se ocitáš v obleženém městě Athíra. Původní obyvatelé byli buďto zabiti nebo dávno utekli a město se změnilo v neprodyšně uzavřenou válečnou zónu, kde bojují o přežití skupinky nebo jednotlivci z řad NATO vojáků a členů FIA partyzánů. Dříve spojenci, nyní soupeři, snažící se v obleženém městě přežít. Proč CSAT město obléhá, namísto bombardování nebo útoku, je pro všechny ve městě velkou záhadou. Důvod to mít musí, jinak by se CSAT přeci neobtěžoval s obléháním bezvýznamného města uprostřed Altisu.
+&lt;br/&gt;&lt;br/&gt;
+Město je neprodyšně uzavřeno a snaha utéci se rovná rozsudku smrti z rukou CSAT odstřelovačů. Pozor na minové pole mezi továrním komplexem a městem. Kolují zvěsti, že se lze s trochou štěstí do továrny a zpět dostat, ale kdo by to riskoval. V noci CSAT střílí nad město světlice, zřejmě jako pomoc odstřelovačům.
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\map_cz.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Ve městě se stále dají najít konzervy jídla a partyzáni mají po celém městě poschovány bedny s vybavením.
+&lt;br/&gt;&lt;br/&gt;
+Zvěsti muluví o tajemném obchodníkovi. Jen najít cestu jak ho kontaktovat.
+&lt;br/&gt;&lt;br/&gt;
+Jak dlouho tam přežiješ? Kolikrát se vrátíš do svého podzemního úkrytu ve sklepení jedno z domů?
+&lt;br/&gt;&lt;br/&gt;
+Hodně štěstí!
+				</Czech>
+			</Key>
+			<Key ID="STR_HowToPlayTitle">
+				<English>How To Play</English>
+				<Czech>Jak hrát</Czech>
+			</Key>
+			<Key ID="STR_HowToPlay">
+				<English>
+Your goal is to survive in a besieged city. You raid the city for equipment and food. What you bring with you and put in a stash is safe. What you have with you at the time of your death in the city is forever lost and you will restart like another survivor who found your original shelter where you will find all the stored equipment in the stash. Food stocks which will once again be just one piece of canned food.
+&lt;br/&gt;&lt;br/&gt;
+One raid lasts for 90 minutes and during that time you can just enter the city and back into the hideout as many times as you want. Just be careful that you are not in town at the end of the raid.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+IN THE SHELTER
+&lt;br/&gt;&lt;br/&gt;
+Here your adventure begins and ends. Your shelter is well hidden in the basement under one town house. You can store the found equipment there, equip for another raid and track your own score and statistics.
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\storage.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+This is your stash. You can combine half-empty magazines with it. This action also dismantles weapons and empties backpacks or other containers stored in it.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\food.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Here you can check food supplies. Every new raid (every 90 minutes) you consume one canned food. The change of server means new raid as well.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\chalkboard.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+On this board you see the number of kills and found dogtags.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\stats.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Here you can check your game statistics and the top score list in the multiplayer game. Adore your gear with camera on table.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\goout.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Use this door to leave the shelter and go to the city. After death you cannot immediately go on a new raid. You have to wait a few minutes.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+IN THE TOWN
+&lt;br/&gt;&lt;br/&gt;
+Here you have to be very careful. You are not the only one who wants to survive.
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\center.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+This icon marks town center after entering it. After a while the icon disappears.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\takefood.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Food you should regularly collect.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\weaponscache.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Secret guerrilla equipment stash. If you find it you are very lucky.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\exit.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+This is the most important thing. This icon marks a house with an underground entrance where you get into your hiding place. Look for the houses that are so marked and use them to return to safety.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\actions.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+You can make various useful actions using the context menus on your character or dead body.			
+				</English>
+				<Czech>
+Tvým cílem je přežívat v obleženém městě. Vypravuješ se na razie na povrch města pro vybavení a jídlo. To co přineseš s sebou a uložíš ve skrýši je v bezpečí, ale to co máš u sebe v době smrti ve městě je ztraceno a začneš jako jiný přeživší, který našel tvůj původní úkryt. Kromě zásob jídla, která bude opět jen jedna konzerva, najdeš ve skrýši veškeré uložené vybavení. 
+&lt;br/&gt;&lt;br/&gt;
+Jedna razie trvá 90 minut a v jejím průběhu může do města a zpět do skrýše kolikrát jen chceš. Jen si dej pozor, aby tě konec razie nezastihl uprostřed města. 
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+V ÚKRYTU
+&lt;br/&gt;&lt;br/&gt;
+Zde tvoje dobrodružství začíná a končí. Tvůj úkryt je dobře schován ve sklepení pod jedním městským domem.  Můžeš zde ukládat nalezené vybavení, vybavovat se na další razii a sledovat vlastní skóre a statistiky.
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\storage.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Toto je tvá úschovna vybavení. Přes akci na ní můžeš zkombinovat poloprázdné zásobníky. Tato akce také rozloží zbraně a vyprázdní batohy a ostatní kontejnery v ní uložené.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\food.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Zde můžeš sledovat zásoby jídla. Každou novou razii (každých 90 minut) spotřebuješ jednu konzervu. Za novou razii se bere i změna serveru.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\chalkboard.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Na této tabuli vidíš počet zabití a nalezených psích známek.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\stats.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Zde můžeš kontrolovat svoje herní statistiky a ve hře více hráčů také žebříček nejlepších skóre. Pomocí kamery na stole můžeš obdivovat svoji výstroj.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\goout.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Pomocí těchto dveří opustíš úkryt a vydáš se do města. Po smrti nemůžeš ihned vyrazit na novou razii. Musíš pár minut počkat.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+VE MĚSŤE
+&lt;br/&gt;&lt;br/&gt;
+Zde musíš být velice opatrný. Nejsi jediný, kdo chce přežít.
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\center.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Tato ikona značí po vstupu do města jeho střed. Po chvíli zmizí.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\takefood.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Takto vypadá jídlo, které by si měl pravidelně sbírat.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\weaponscache.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Takto vypadá tajná skrýš vybavení partyzánů. Pokud ji najdeš, máš veliké štěstí.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\exit.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Toto je to nejdůležitější. Tato ikona značí dům se vstupem do podzemí, kde se dostaneš do své skrýše. Hledej takto označené domy a použij je k návratu zpět do bezpečí.
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;img image='images\actions.jpg'/&gt;
+&lt;br/&gt;&lt;br/&gt;
+Pomocí kontextových nabídek na své postavě nebo mrtvole můžeš provádět různé užitečné akce.
+				</Czech>
+			</Key>
+			<Key ID="STR_VersionTitle">
+				<English>Version and Credits</English>
+				<Czech>Verze a kredity</Czech>
+			</Key>
+			<Key ID="STR_Version">
+				<English>
+v%1 by Ataribaby and LukyC&lt;br/&gt;&lt;br/&gt;TEXT SUPERVISION&lt;br/&gt;&lt;br/&gt;Kamil Krečman&lt;br/&gt;PumpyHead (BenchmarkSims)&lt;br/&gt;&lt;br/&gt;TESTING AND ADDITIONAL IDEAS&lt;br/&gt;&lt;br/&gt;D.A.M_Drak, DUKE marks smelly leg, Grif&lt;br/&gt;&lt;br/&gt;THIRD PARTY CONTENT&lt;br/&gt;&lt;br/&gt;
+Holster weapon idea by Phantom Wolf&lt;br/&gt;
+Night Vision Script by BroDouYouEvenBro&lt;br/&gt;
+Road Flares Script by aliascartoons&lt;br/&gt;
+Flare Fix Script ARMA 3 by aliascartoons&lt;br/&gt;
+Man dying sound by Robinhood76 freesound.org&lt;br/&gt;
+KK_fnc_inHouse by Killzone Kid&lt;br/&gt;
+Simple Breath Fog Script by tpw&lt;br/&gt;
+Random House Patrol Script by Tophe&lt;br/&gt;
+Short vocal samples by unfa freesound.org&lt;br/&gt; 
+"You are a loser" by Iceofdoom freesound.org&lt;br/&gt;
+Vocal samples recorded by PumpyHead (BenchmarkSims)&lt;br/&gt;
+Vocal samples recorded by Nigel (BenchmarkSims)&lt;br/&gt;
+PumpyHead (BenchmarkSims) as trader voice&lt;br/&gt;
+Ray King as player voice&lt;br/&gt;
+COMBAT REALISM SCRIPTS by Phronk&lt;br/&gt;
+Mag-Repack by Outlawled (default key Ctrl+R)&lt;br/&gt;
+Solar and climatological functions by W.M. Crielaard&lt;br/&gt;
+Shivering man sounds by Sound Effects HD Indie Studios&lt;br/&gt;
+				</English>
+				<Czech>
+v%1 od Ataribaby a LukyC&lt;br/&gt;&lt;br/&gt;DOHLED NAD TEXTY&lt;br/&gt;&lt;br/&gt;Kamil Krečman&lt;br/&gt;PumpyHead (BenchmarkSims)&lt;br/&gt;&lt;br/&gt;TESTOVÁNÍ A DALŠÍ NÁPADY&lt;br/&gt;&lt;br/&gt;D.A.M_Drak, DUKE marks smelly leg, Grif&lt;br/&gt;&lt;br/&gt;OBSAH TŘETÍCH STRAN&lt;br/&gt;&lt;br/&gt;
+Holster weapon nápad od Phantom Wolf&lt;br/&gt;
+Night Vision Script od BroDouYouEvenBro&lt;br/&gt;
+Road Flares Script od aliascartoons&lt;br/&gt;
+Flare Fix Script ARMA 3 od aliascartoons&lt;br/&gt;
+Man dying sound od Robinhood76 freesound.org&lt;br/&gt;				
+KK_fnc_inHouse od Killzone Kid&lt;br/&gt;
+Simple Breath Fog Script od tpw&lt;br/&gt;
+Random House Patrol Script od Tophe&lt;br/&gt;
+Short vocal samples od unfa freesound.org&lt;br/&gt; 
+"You are a loser" od Iceofdoom freesound.org&lt;br/&gt;
+Vocal samples nahrány od PumpyHead (BenchmarkSims)&lt;br/&gt;
+Vocal samples nahrány od Nigel (BenchmarkSims)&lt;br/&gt;
+PumpyHead (BenchmarkSims) jako hlas obchodníka&lt;br/&gt;
+Ray King jako hlas hráče&lt;br/&gt;
+COMBAT REALISM SCRIPTS od Phronk&lt;br/&gt;
+Mag-Repack od Outlawled (výchozí klávesa Ctrl+R)&lt;br/&gt;
+Solar and climatological functions od W.M. Crielaard&lt;br/&gt;
+Shivering man sounds od Sound Effects HD Indie Studios&lt;br/&gt;
+				</Czech>
+			</Key>
+			<Key ID="STR_ExtractionInProgress">
+				<English>&lt;t font='EtelkaMonospacePro' size='3' shadow='0' color='#000000' align='center'&gt;Extraction in %1.%2&lt;/t&gt;</English>
+				<Czech>&lt;t font='EtelkaMonospacePro' size='3' shadow='0' color='#000000' align='center'&gt;Vyzvednutí za %1.%2&lt;/t&gt;</Czech>
+			</Key>
+			<Key ID="STR_EntryInProgress">
+				<English>&lt;t font='EtelkaMonospacePro' size='3' shadow='0' color='#000000' align='center'&gt;Deploying in %1.%2&lt;/t&gt;</English>
+				<Czech>&lt;t font='EtelkaMonospacePro' size='3' shadow='0' color='#000000' align='center'&gt;Vyrazit za %1.%2&lt;/t&gt;</Czech>
+			</Key>
+			<Key ID="STR_EntryLocked">
+				<English>&lt;t font='EtelkaMonospacePro' size='3' shadow='0' color='#ffffff' align='center'&gt;Locked %1:%2&lt;/t&gt;</English>
+				<Czech>&lt;t font='EtelkaMonospacePro' size='3' shadow='0' color='#ffffff' align='center'&gt;Uzamčen %1:%2&lt;/t&gt;</Czech>
+			</Key>
+			<Key ID="STR_SafeHouse">
+				<English>Shelter</English>
+				<Czech>Úkryt</Czech>
+			</Key>
+			<Key ID="STR_Entry">
+				<English>Go on raid</English>
+				<Czech>Vyrazit na razii</Czech>
+			</Key>
+			<Key ID="STR_TitleText">
+				<English>Town of Athira</English>
+				<Czech>Město Athíra</Czech>
+			</Key>
+			<Key ID="STR_LeaveTownWarnTitle">
+				<English>No Escape</English>
+				<Czech>Není úniku</Czech>
+			</Key>
+			<Key ID="STR_LeaveTownWarnMessage">
+				<English>Turn back! CSAT snipers are all around!</English>
+				<Czech>Vrať se zpět! Všude kolem jsou ostřelovači CSATu!</Czech>
+			</Key>
+			<Key ID="STR_FieldOfDeath">
+				<English>Field of Death</English>
+				<Czech>Pole smrti</Czech>
+			</Key>
+			<Key ID="STR_Survive">
+				<English>Survive</English>
+				<Czech>Přežij</Czech>
+			</Key>
+			<Key ID="STR_please_wait">
+				<English>Please wait...</English>
+				<Czech>Prosím čekejte...</Czech>
+			</Key>
+			<Key ID="STR_action_repack_magazines">
+				<English>Repack magazines</English>
+				<Czech>Sloučit zásobníky</Czech>
+			</Key>
+			<Key ID="STR_magazinesRepacked">
+				<English>All magazines repacked</English>
+				<Czech>Všechny zásobníky sloučeny</Czech>
+			</Key>
+			<Key ID="STR_Information">
+				<English>Information</English>
+				<Czech>Informace</Czech>
+			</Key>
+			<Key ID="STR_Warning">
+				<English>Warning</English>
+				<Czech>Upozornění</Czech>
+			</Key>
+			<Key ID="STR_RaidEndWarnTitle">
+				<English>Hurry Up!</English>
+				<Czech>Pospěš si!</Czech>
+			</Key>
+			<Key ID="STR_RaidEndWarn10Message">
+				<English>Raid will end in 10 minutes. Start looking for a shelter.</English>
+				<Czech>Razie skončí za 10 minut. Začni hledat úkryt.</Czech>
+			</Key>
+			<Key ID="STR_RaidEndWarn5Message">
+				<English>Raid will end in 5 minutes. You should be near a shelter.</English>
+				<Czech>Razie skončí za 5 minut. Měl by si být blízko úkrytu.</Czech>
+			</Key>
+			<Key ID="STR_RaidEndWarn1Message">
+				<English>Raid will end in 1 minutes. You are in deep trouble.</English>
+				<Czech>Razie skončí za 1 minutu. Máš docela problém.</Czech>
+			</Key>
+			<Key ID="STR_Equipment">
+				<English>Equipment</English>
+				<Czech>Vybavení</Czech>
+			</Key>
+			<Key ID="STR_Welcome">
+				<English>
+&lt;t size='1.5' align='center'&gt;Welcome&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;t align='left'&gt;You are still alive! As surviving NATO soldier in cellar shelter under town of Athira you need scavenge for equipment and&lt;/t&gt;&lt;img align='left' size='2' image='images\food_ca.paa'/&gt;&lt;t align='left'&gt;food. You are not alone who wants to survive. Good luck out there!&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;img size='2' image='\A3\ui_f\data\igui\cfg\actions\open_door_ca.paa' align='left' /&gt;
+&lt;t align='left'&gt; exit from your cellar shelter.&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;img size='2' image='\a3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa' align='left' /&gt;
+&lt;t align='left'&gt; your equipement storage. &lt;/t&gt;&lt;t align='left'&gt; Storage action &lt;/t&gt;&lt;img size='2' image='\A3\ui_f\data\igui\cfg\actions\reload_ca.paa' align='left' /&gt;&lt;t align='left'&gt; combines all half empty magazines. &lt;/t&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;t align='left'&gt;In the town look for houses marked with &lt;/t&gt;&lt;img size='2' image='\A3\ui_f\data\igui\cfg\actions\open_door_ca.paa' align='left' /&gt;&lt;t align='left'&gt;. &lt;/t&gt;
+				</English>
+				<Czech>
+&lt;t size='1.5' align='center'&gt;Vítej&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;t align='left'&gt;Jsi stále naživu! Jako přeživší voják NATO jsi ve sklepním úkrytu pod městem Athíra a musíš hledat vybavení a&lt;/t&gt;&lt;img align='left' size='2' image='images\food_ca.paa'/&gt;&lt;t align='left'&gt;jído. Nejsi sám kdo chce přežít. Hodně štěstí tam venku!&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;img size='2' image='\A3\ui_f\data\igui\cfg\actions\open_door_ca.paa' align='left' /&gt;
+&lt;t align='left'&gt; východ z tvého sklepního úkrytu.&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;img size='2' image='\a3\Ui_f\data\IGUI\Cfg\Actions\gear_ca.paa' align='left' /&gt;
+&lt;t align='left'&gt; tvé skladište. &lt;/t&gt;&lt;t align='left'&gt; Akce na skladišti &lt;/t&gt;&lt;img size='2' image='\A3\ui_f\data\igui\cfg\actions\reload_ca.paa' align='left' /&gt;&lt;t align='left'&gt; zkombinuje poloprázdné zásobníky.&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;t align='left'&gt;Ve městě hledej domy označené &lt;/t&gt;&lt;img size='2' image='\A3\ui_f\data\igui\cfg\actions\open_door_ca.paa' align='left' /&gt;&lt;t align='left'&gt;. &lt;/t&gt;
+				</Czech>
+			</Key>
+			<Key ID="STR_action_pickup_chem">
+				<English>Pick up and attach chemlight</English>
+				<Czech>Sebrat a připevnit chemlight</Czech>
+			</Key>
+			<Key ID="STR_action_attach_blue_chemlight">
+				<English>Attach blue chemlight</English>
+				<Czech>Připevnit modrý chemlight</Czech>
+			</Key>
+			<Key ID="STR_action_attach_green_chemlight">
+				<English>Attach green chemlight</English>
+				<Czech>Připevnit zelený chemlight</Czech>
+			</Key>
+			<Key ID="STR_action_attach_red_chemlight">
+				<English>Attach red chemlight</English>
+				<Czech>Připevnit červený chemlight</Czech>
+			</Key>
+			<Key ID="STR_action_attach_yellow_chemlight">
+				<English>Attach yellow chemlight</English>
+				<Czech>Připevnit žlutý chemlight</Czech>
+			</Key>
+			<Key ID="STR_action_drop_chemlight">
+				<English>Drop chemlight</English>
+				<Czech>Polož chemlight</Czech>
+			</Key>
+			<Key ID="STR_MissionEndTtitle">
+				<English>Raid ended</English>
+				<Czech>Razie skončila</Czech>
+			</Key>
+			<Key ID="STR_MissionEndDesc">
+				<English>Everyone who left outside are considered KIA.</English>
+				<Czech>Všichni, kteří zůstaly venku, jsou prohlášeni za mrtvé.</Czech>
+			</Key>
+			<Key ID="STR_TakeFood">
+				<English>Take food</English>
+				<Czech>Vezmi jídlo</Czech>
+			</Key>
+			<Key ID="STR_DropFood">
+				<English>Drop food</English>
+				<Czech>Polož jídlo</Czech>
+			</Key>
+			<Key ID="STR_Food">
+				<English>Food</English>
+				<Czech>Jídlo</Czech>
+			</Key>
+			<Key ID="STR_FoodCount">
+				<English>Canned food: %1</English>
+				<Czech>Plechovek jídla: %1</Czech>
+			</Key>
+			<Key ID="STR_FoodCanConsumed">
+				<English>Canned food consumed. %1 left.</English>
+				<Czech>Snědl jsi plechovku jídla. Zbývá %1.</Czech>
+			</Key>
+			<Key ID="STR_NoFood">
+				<English>You have no food left!</English>
+				<Czech>Už nemáš žádné jídlo!</Czech>
+			</Key>
+			<Key ID="STR_Hungry">
+				<English>You are feeling hungry</English>
+				<Czech>Cítíš se hladový</Czech>
+			</Key>
+			<Key ID="STR_Weak">
+				<English>You are weak</English>
+				<Czech>Cítíš se slabý</Czech>
+			</Key>
+			<Key ID="STR_VeryWeak">
+				<English>You are very weak</English>
+				<Czech>Cítíš se velmi slabý</Czech>
+			</Key>
+			<Key ID="STR_MenuHungry">
+				<English>hungry</English>
+				<Czech>hladový</Czech>
+			</Key>
+			<Key ID="STR_MenuWeak">
+				<English>weak</English>
+				<Czech>slabý</Czech>
+			</Key>
+			<Key ID="STR_MenuVeryWeak">
+				<English>very weak</English>
+				<Czech>velmi slabý</Czech>
+			</Key>
+			<Key ID="STR_FoodInventory">
+				<English>Canned food: %1</English>
+				<Czech>Plechovek jídla: %1</Czech>
+			</Key>
+			<Key ID="STR_DogtagsInventory">
+				<English>Dogtags: %1</English>
+				<Czech>Psích známek: %1</Czech>
+			</Key>
+			<Key ID="STR_searchBody">
+				<English>Search body</English>
+				<Czech>Prohledat tělo</Czech>
+			</Key>
+			<Key ID="STR_searchBodyAborted">
+				<English>Search aborted.</English>
+				<Czech>Prohledávání přerušeno.</Czech>
+			</Key>
+			<Key ID="STR_NothingFound">
+				<English>Nothing found.</English>
+				<Czech>Nic jsi nenašel.</Czech>
+			</Key>
+			<Key ID="STR_FoundDogtags">
+				<English>Found dogtags with name %1.</English>
+				<Czech>Našel jsi psí známky se jménem %1.</Czech>
+			</Key>
+			<Key ID="STR_FoundFood">
+				<English>Canned food found: %1.</English>
+				<Czech>Nalezeno konzerv s jídlem: %1.</Czech>
+			</Key>
+			<Key ID="STR_WelcomeTitle">
+				<English>Welcome</English>
+				<Czech>Vítej</Czech>
+			</Key>
+			<Key ID="STR_DiaryTotalPlayTime">
+				<English>Total Play Time</English>
+				<Czech>Celkový herní čas</Czech>
+			</Key>
+			<Key ID="STR_DiaryPlayTime">
+				<English>Play Time</English>
+				<Czech>Herní čas</Czech>
+			</Key>
+			<Key ID="STR_DiaryDeaths">
+				<English>Deaths</English>
+				<Czech>Smrtí</Czech>
+			</Key>
+			<Key ID="STR_DiaryTotalRaids">
+				<English>Total Successful Raids</English>
+				<Czech>Celkově úspěšných razií</Czech>
+			</Key>
+			<Key ID="STR_DiaryRaids">
+				<English>Sucessful Raids</English>
+				<Czech>Úspěšných Razií</Czech>
+			</Key>
+			<Key ID="STR_DiaryTotalKills">
+				<English>Total Kills</English>
+				<Czech>Celkově zabití</Czech>
+			</Key>
+			<Key ID="STR_DiaryTopScore">
+				<English>Top Score</English>
+				<Czech>Nejlepší skóre</Czech>
+			</Key>
+			<Key ID="STR_DiaryKills">
+				<English>Kills</English>
+				<Czech>Zabití</Czech>
+			</Key>
+			<Key ID="STR_DiaryTotalDogtags">
+				<English>Total Dogtags</English>
+				<Czech>Celkově psích známek</Czech>
+			</Key>
+			<Key ID="STR_DiaryDogtags">
+				<English>Dogtags</English>
+				<Czech>Psích známek</Czech>
+			</Key>
+			<Key ID="STR_DiaryGlobalStats">
+				<English>Global Stats</English>
+				<Czech>Globální statistiky</Czech>
+			</Key>
+			<Key ID="STR_DiaryCurrentChar">
+				<English>Current Character</English>
+				<Czech>Aktuální postava</Czech>
+			</Key>
+			<Key ID="STR_Weather_SUNNY">
+				<English>Clear</English>
+				<Czech>Jasno</Czech>
+			</Key>
+			<Key ID="STR_Weather_SUNNY_WINDY">
+				<English>Clear</English>
+				<Czech>Jasno</Czech>
+			</Key>
+			<Key ID="STR_Weather_BROKEN">
+				<English>Cloudy</English>
+				<Czech>Oblačno</Czech>
+			</Key>
+			<Key ID="STR_Weather_BROKEN_WINDY">
+				<English>Cloudy</English>
+				<Czech>Oblačno</Czech>
+			</Key>
+			<Key ID="STR_Weather_OVERCAST">
+				<English>Overcast</English>
+				<Czech>Zataženo</Czech>
+			</Key>
+			<Key ID="STR_Weather_OVERCAST_WINDY">
+				<English>Overcast</English>
+				<Czech>Zataženo</Czech>
+			</Key>
+			<Key ID="STR_Weather_LIGHT_RAIN">
+				<English>Light Rain</English>
+				<Czech>Lehký déšť</Czech>
+			</Key>
+			<Key ID="STR_Weather_LIGHT_RAIN_WINDY">
+				<English>Light Rain</English>
+				<Czech>Lehký déšť</Czech>
+			</Key>
+			<Key ID="STR_Weather_HEAVY_RAIN">
+				<English>Cats And Dogs</English>
+				<Czech>Hustý déšť</Czech>
+			</Key>
+			<Key ID="STR_Weather_HEAVY_RAIN-WINDY">
+				<English>Cats And Dogs</English>
+				<Czech>Hustý déšť</Czech>
+			</Key>
+			<Key ID="STR_Weather_THUNDERSTORM">
+				<English>Thunderstorm</English>
+				<Czech>Bouřka</Czech>
+			</Key>
+			<Key ID="STR_Weather_LIGHTNINGS">
+				<English>Lightnings</English>
+				<Czech>Blesky</Czech>
+			</Key>
+			<Key ID="STR_Weather_LIGHTNINGS_WINDY">
+				<English>Lightnings</English>
+				<Czech>Blesky</Czech>
+			</Key>
+			<Key ID="STR_StatusKilled">
+				<English>Your New Home</English>
+				<Czech>Tvůj nový domov</Czech>
+			</Key>
+			<Key ID="STR_StatusSurvived">
+				<English>Survived</English>
+				<Czech>Přežil jsi</Czech>
+			</Key>
+			<Key ID="STR_StatusAlive">
+				<English>Still Alive</English>
+				<Czech>Pořád naživu</Czech>
+			</Key>
+			<Key ID="STR_TimeDay">
+				<English>Day</English>
+				<Czech>Den</Czech>
+			</Key>
+			<Key ID="STR_TimeNight">
+				<English>Pitch-Black Night</English>
+				<Czech>Černočerná noc</Czech>
+			</Key>
+			<Key ID="STR_TimeNightMoon">
+				<English>Night</English>
+				<Czech>Noc</Czech>
+			</Key>
+			<Key ID="STR_WeaponCache">
+				<English>Weapon Cache</English>
+				<Czech>Muniční bedna</Czech>
+			</Key>
+			<Key ID="STR_Weather">
+				<English>Weather</English>
+				<Czech>Počasí</Czech>
+			</Key>
+			<Key ID="STR_Time">
+				<English>Time</English>
+				<Czech>Čas</Czech>
+			</Key>
+			<Key ID="STR_RaidEnd">
+				<English>Raid Ends In</English>
+				<Czech>Konec razie za</Czech>
+			</Key>
+			<Key ID="STR_RaidEndTemplate">
+				<English>%6m</English>
+				<Czech>%6m</Czech>
+			</Key>
+			<Key ID="STR_Score">
+				<English>Score</English>
+				<Czech>Skóre</Czech>
+			</Key>
+			<Key ID="STR_RaidResult">
+				<English>Score for this raid:&lt;br/&gt;Kills: %1&lt;br/&gt;Dogtags: %2&lt;br/&gt;Survived: %3&lt;br/&gt;Total: %4</English>
+				<Czech>Skóre pro tuto razii:&lt;br/&gt;Zabití: %1&lt;br/&gt;Psí známky: %2&lt;br/&gt;Přežití: %3&lt;br/&gt;Celkem: %4</Czech>
+			</Key>
+			<Key ID="STR_TopTen">
+				<English>Top Ten</English>
+				<Czech>Deset nejlepších</Czech>
+			</Key>
+			<Key ID="STR_Monument">
+				<English>All started here 05/23/2017</English>
+				<Czech>Vše začalo zde 23.5.2017</Czech>
+			</Key>
+			<Key ID="STR_Camera">
+				<English>Am I looking good?</English>
+				<Czech>Vypadám dobře?</Czech>
+			</Key>
+			<Key ID="STR_CameraAction">
+				<English>Press &lt;SPACE&gt; to exit camera. Press &lt;C&gt; to change camera.</English>
+				<Czech>Stiskni &lt;MEZERNÍK&gt; pro ukončení kamery. Stiskni &lt;C&gt; pro změnu kamery.</Czech>
+			</Key>
+			<Key ID="STR_KIA">
+				<English>KILLED IN ACTION</English>
+				<Czech>ZABIT V AKCI</Czech>
+			</Key>
+			<Key ID="STR_MIA">
+				<English>MISSING IN ACTION</English>
+				<Czech>POHŘEŠOVÁN V AKCI</Czech>
+			</Key>
+			<Key ID="STR_Leaflet">
+				<English>SURRENDER!&lt;br/&gt;&lt;br/&gt;Resistance is futile!</English>
+				<Czech>VZDEJTE SE!&lt;br/&gt;&lt;br/&gt;Odpor je marný!</Czech>
+			</Key>
+			<Key ID="STR_DialogScoreBtClose">
+				<English>Close</English>
+				<Czech>Zavřít</Czech>
+			</Key>
+			<Key ID="STR_DialogScoreTxTitle">
+				<English>Survived!</English>
+				<Czech>Přežil jsi!</Czech>
+			</Key>
+			<Key ID="STR_DialogScoreTxRaidScore">
+				<English>Raid Score: %1</English>
+				<Czech>Skóre razije: %1</Czech>
+			</Key>
+			<Key ID="STR_scoreKilledNatoRenegadePlayer">
+				<English>NATO Survivor Renegade (Player) Kill ... %1</English>
+				<Czech>Zabití NATO přeživšího odpadlíka (hráč) ... %1</Czech>
+			</Key>
+			<Key ID="STR_scoreKilledNatoPlayer">
+				<English>NATO Survivor (Player) Kill ... %1</English>
+				<Czech>Zabití NATO přeživšího (hráč) ... %1</Czech>
+			</Key>
+			<Key ID="STR_scoreKilledNatoRenegadeAi">
+				<English>NATO Survivor Renegade Kill ... %1</English>
+				<Czech>Zabití NATO přeživšího odpadlíka ... %1</Czech>
+			</Key>
+			<Key ID="STR_scoreKilledNatoAi">
+				<English>NATO Survivor Kill ... %1</English>
+				<Czech>Zabití NATO přeživšího ... %1</Czech>
+			</Key>
+			<Key ID="STR_scoreKilledGuerrillaAi">
+				<English>Guerrilla Kill ... %1</English>
+				<Czech>Zabití partyzána ... %1</Czech>
+			</Key>
+			<Key ID="STR_scoreKilledGuerrillaBossAi">
+				<English>Guerrilla Boss Kill ... %1</English>
+				<Czech>Zabití šéfa partyzánů ... %1</Czech>
+			</Key>
+			<Key ID="STR_scoreKilledGuerrillaBossGuardAi">
+				<English>Guerrilla Boss Guard Kill ... %1</English>
+				<Czech>Zabití ochranky šéfa partyzánů ... %1</Czech>
+			</Key>
+			<Key ID="STR_scoreKilledCSAT">
+				<English>CSAT Kill ... %1</English>
+				<Czech>Zabití CSATu ... %1</Czech>
+			</Key>
+			<Key ID="STR_scoreDogtagFound">
+				<English>Dogtag retrieval (%2) ... %1</English>
+				<Czech>Získání psí známka (%2) ... %1</Czech>
+			</Key>
+			<Key ID="STR_scoreTimeSpentInRaid">
+				<English>Raid Survival ... %1</English>
+				<Czech>Přežití razie ... %1</Czech>
+			</Key>
+			<Key ID="STR_scoreKilledCSATDrone">
+				<English>CSAT Drone Kill ... %1</English>
+				<Czech>Zničení CSAT dronu ... %1</Czech>
+			</Key>
+			<Key ID="STR_Renegade">
+				<English>Renegade</English>
+				<Czech>Odpadlík</Czech>
+			</Key>
+			<Key ID="STR_Radio">
+				<English>Transmit</English>
+				<Czech>Vysílat</Czech>
+			</Key>
+			<Key ID="STR_RadioNotice">
+				<English>
+&lt;t size='1.5' align='center'&gt;You Found The Radio!&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;t align='left'&gt;Now you can try to use the &lt;/t&gt;&lt;img align='left' size='2' image='images\transmit_ca.paa'/&gt;&lt;t align='left'&gt; radio on your desk for a contact.&lt;/t&gt;
+				</English>
+				<Czech>
+&lt;t size='1.5' align='center'&gt;Našel jsi vysílačku!&lt;/t&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;t align='left'&gt;Nyní se můžes pokusit pomocí&lt;/t&gt;&lt;img align='left' size='2' image='images\transmit_ca.paa'/&gt;&lt;t align='left'&gt; vysílačky na stole o kontakt.&lt;/t&gt;
+				</Czech>
+			</Key>
+			<Key ID="STR_DialogTraderClose">
+				<English>Close</English>
+				<Czech>Zavřít</Czech>
+			</Key>
+			<Key ID="STR_DialogTraderDeal">
+				<English>Deal!</English>
+				<Czech>Dohodnout!</Czech>
+			</Key>
+			<Key ID="STR_DialogTraderPayment">
+				<English>Items For Payment</English>
+				<Czech>Položky k platbě</Czech>
+			</Key>
+			<Key ID="STR_DialogTraderPurchase">
+				<English>Items To Buy</English>
+				<Czech>Položky ke koupi</Czech>
+			</Key>
+			<Key ID="STR_DialogTraderTrader">
+				<English>Trader Inventory</English>
+				<Czech>Invetář obchodníka</Czech>
+			</Key>
+			<Key ID="STR_DialogTraderYourInventory">
+				<English>Your Stash</English>
+				<Czech>Tvoje úschovna</Czech>
+			</Key>
+			<Key ID="STR_DialogTraderTitle">
+				<English>Mysterious Trader</English>
+				<Czech>Tajemný obchodník</Czech>
+			</Key>
+			<Key ID="STR_ClearSave">
+				<English>Clear profile data</English>
+				<Czech>Smazat profilová data</Czech>
+			</Key>
+			<Key ID="STR_Confirm">
+				<English>Confirm</English>
+				<Czech>Potvrdit</Czech>
+			</Key>
+			<Key ID="STR_ClearSaveQuestion">
+				<English>Profile data will be cleared! Please restart/rejoin mission to enable profile saving again. Are you sure?</English>
+				<Czech>Profilová data budou smazána! Restartujte / připojte znovu misi pro aktivaci ukládání profilu. Jste si opravdu jisti?</Czech>
+			</Key>
+			<Key ID="STR_TraderBoxPayment">
+				<English>Make a payment</English>
+				<Czech>Provést platbu</Czech>
+			</Key>
+			<Key ID="STR_TraderBoxPickup">
+				<English>Pick up your stuff</English>
+				<Czech>Vyzvedni jsi věci</Czech>
+			</Key>
+			<Key ID="STR_CarryFullFood">
+				<English>You can not carry more than %1 cans!</English>
+				<Czech>Nemůžeš nést více než %1 plechovky!</Czech>
+			</Key>
+			<Key ID="STR_PersonalScoreBeaten">
+				<English>Congratulation! You beaten your highest score!</English>
+				<Czech>Gratulace! Překonal si svoje nejvyšší skóre!</Czech>
+			</Key>
+			<Key ID="STR_TopTenScoreBeaten">
+				<English>Congratulation! Your score was added to Top Ten!</English>
+				<Czech>Gratulace! Tvé skóre bylo přidáno do deseti nejleších!</Czech>
+			</Key>
+			<Key ID="STR_soaDeathTimeout">
+				<English>Death Timeout</English>
+				<Czech>Časový limit po smrti</Czech>
+			</Key>
+			<Key ID="STR_soaDeathTimeout_0">
+				<English>None</English>
+				<Czech>Žádný</Czech>
+			</Key>
+			<Key ID="STR_soaDeathTimeout_10">
+				<English>10 seconds</English>
+				<Czech>10 sekund</Czech>
+			</Key>
+			<Key ID="STR_soaDeathTimeout_30">
+				<English>30 seconds</English>
+				<Czech>30 sekund</Czech>
+			</Key>
+			<Key ID="STR_soaDeathTimeout_60">
+				<English>1 minute</English>
+				<Czech>1 minuta</Czech>
+			</Key>
+			<Key ID="STR_soaDeathTimeout_120">
+				<English>2 minutes</English>
+				<Czech>2 minuty</Czech>
+			</Key>
+			<Key ID="STR_soaDeathTimeout_300">
+				<English>5 minutes</English>
+				<Czech>5 minut</Czech>
+			</Key>
+			<Key ID="STR_soaDeathTimeout_600">
+				<English>10 minutes</English>
+				<Czech>10 minut</Czech>
+			</Key>
+			<Key ID="STR_soaForceFirstPerson">
+				<English>Force First Person</English>
+				<Czech>Vynucení první osoby</Czech>
+			</Key>
+			<Key ID="STR_soaDisabled">
+				<English>Disabled</English>
+				<Czech>Zakázáno</Czech>
+			</Key>
+			<Key ID="STR_soaEnabled">
+				<English>Enabled</English>
+				<Czech>Povoleno</Czech>
+			</Key>
+			<Key ID="STR_soaGuerrillaLimit">
+				<English>AI Guerrilla Limit</English>
+				<Czech>Limit AI partyzánů</Czech>
+			</Key>
+			<Key ID="STR_soaRandom">
+				<English>Random</English>
+				<Czech>Povoleno</Czech>
+			</Key>
+			<Key ID="STR_soaNatoLimit">
+				<English>AI NATO Limit</English>
+				<Czech>Limit AI NATO</Czech>
+			</Key>
+			<Key ID="STR_soaNumOfExits">
+				<English>Number of Exits</English>
+				<Czech>Počet východů</Czech>
+			</Key>
+			<Key ID="STR_soaFoodLimit">
+				<English>Food Spawn Limit</English>
+				<Czech>Limit generování jídla</Czech>
+			</Key>
+			<Key ID="STR_soaRealtimeServerTime">
+				<English>Server Real Time</English>
+				<Czech>Reálný čas serveru</Czech>
+			</Key>
+			<Key ID="STR_soaMissionDuration">
+				<English>Raid Duration (minutes)</English>
+				<Czech>Trvání razie (minuty)</Czech>
+			</Key>
+			<Key ID="STR_soaManualTime">
+				<English>Manual Start Time</English>
+				<Czech>Manuální startovní čas</Czech>
+			</Key>
+			<Key ID="STR_soaManualTime_EarlyMorning">
+				<English>Early Morning</English>
+				<Czech>Brzy ráno</Czech>
+			</Key>
+			<Key ID="STR_soaManualTime_Morning">
+				<English>Morning</English>
+				<Czech>Ráno</Czech>
+			</Key>
+			<Key ID="STR_soaManualTime_Noon">
+				<English>Noon</English>
+				<Czech>Poledne</Czech>
+			</Key>
+			<Key ID="STR_soaManualTime_Afternoon">
+				<English>Afternoon</English>
+				<Czech>Odpoledne</Czech>
+			</Key>
+			<Key ID="STR_soaManualTime_Evening">
+				<English>Evening</English>
+				<Czech>Večer</Czech>
+			</Key>
+			<Key ID="STR_soaManualTime_BrightNight">
+				<English>Bright Night</English>
+				<Czech>Jasná noc</Czech>
+			</Key>
+			<Key ID="STR_soaManualTime_DarkNight">
+				<English>Dark Night</English>
+				<Czech>Tmavá noc</Czech>
+			</Key>
+			<Key ID="STR_soaManualTime_ColdDay">
+				<English>Cold Day</English>
+				<Czech>Chladný den</Czech>
+			</Key>
+			<Key ID="STR_soaManualTime_ColdNight">
+				<English>Cold Night</English>
+				<Czech>Chladná noc</Czech>
+			</Key>
+			<Key ID="STR_soaWeather">
+				<English>Weather</English>
+				<Czech>Počasí</Czech>
+			</Key>
+			<Key ID="STR_soaWeather_Sunny">
+				<English>Clear</English>
+				<Czech>Jasno</Czech>
+			</Key>
+			<Key ID="STR_soaWeather_Broken">
+				<English>Cloudy</English>
+				<Czech>Oblačno</Czech>
+			</Key>
+			<Key ID="STR_soaWeather_Overcast">
+				<English>Overcast</English>
+				<Czech>Zataženo</Czech>
+			</Key>
+			<Key ID="STR_soaWeather_LightRain">
+				<English>Light Rain</English>
+				<Czech>Lehký déšť</Czech>
+			</Key>
+			<Key ID="STR_soaWeather_HeavyRain">
+				<English>Cats And Dogs</English>
+				<Czech>Hustý déšť</Czech>
+			</Key>
+			<Key ID="STR_soaWeather_Thunderstorm">
+				<English>Thunderstorm</English>
+				<Czech>Bouřka</Czech>
+			</Key>
+			<Key ID="STR_soaWeather_Lightnings">
+				<English>Lightnings</English>
+				<Czech>Blesky</Czech>
+			</Key>
+			<Key ID="STR_traderChat_Receiver">
+				<English>Receiver</English>
+				<Czech>Přijímač</Czech>
+			</Key>
+			<Key ID="STR_traderChat_Transmitter">
+				<English>Transmitter</English>
+				<Czech>Vysílač</Czech>
+			</Key>
+			<Key ID="STR_traderChat_Sentence1">
+				<English>Hello!... Anybody there?...</English>
+				<Czech>Haló!... Je tam někdo?... </Czech>
+			</Key>
+			<Key ID="STR_traderChat_SentenceHello">
+				<English>Hello?</English>
+				<Czech>Haló?</Czech>
+			</Key>
+			<Key ID="STR_traderChat_SentenceAnybodyHearMe">
+				<English>Does Anybody Hear Me?</English>
+				<Czech>Slyší mně někdo?</Czech>
+			</Key>
+			<Key ID="STR_traderChat_Sentence2">
+				<English>I hear ya! Don't worry I hear ya. Another new voice? I guess the last one wasn’t so lucky.</English>
+				<Czech>Neboj slyším tě! Další nový hlas?. Vypadá to, že ten před tebou neměl tolik štestí.</Czech>
+			</Key>
+			<Key ID="STR_traderChat_Sentence3">
+				<English>What? Who... Who are you?</English>
+				<Czech>Co? Kdo... Kdo jsi?</Czech>
+			</Key>			
+			<Key ID="STR_traderChat_Sentence4">
+				<English>I’m kind of a dealer here. As to where I am, that’s not important.</English>
+				<Czech>Jsem něco jako místní obchodník. Kde jsem není duležité.</Czech>
+			</Key>		
+			<Key ID="STR_traderChat_Sentence5">
+				<English>Thank God! Can you help me out of this?</English>
+				<Czech>Díky Bohu! Můžeš mi pomoci odtud?</Czech>
+			</Key>		
+			<Key ID="STR_traderChat_Sentence6">
+				<English>Easy my friend. I can't help you outright, but if you play by my rules, we’ll both profit. Basically you can trade your extra stuff for something that might be more useful to you. The rules are simple: After we make a deal, you deliver my payment to the designated crate. Afterwards, return to your hideout and tell me. You can then pickup your stuff at same crate.</English>
+				<Czech>Zvolni kamaŕade. Nemohu ti pomoci odtud pryč, ale pokud budeš hŕat podle mých pravidel, budeme mít z zoho užitek oba. Jednoduše můžeš vyměnit nepotrěbné věci za něco užitečného. Pravidla jsou jednoduchá: Po uzavření obchodu doručíš platbu do domluvené bedny. Pak se vrátíš do svého úkrytu a oznámíš mi to. Pak si můžeš jít vyzvednout svoje nové věci v té samé bedně.</Czech>
+			</Key>
+			<Key ID="STR_traderChat_PaymentIncomplete">
+				<English>My guys just checked your payment and it ain’t all there. Get lost ‘til you give me what we agreed on. Don’t contact me until you do!</English>
+				<Czech>Moji hoši právě zkontrolovali platbu a není to kompletní. Dokud mi nedáš na čem jsem se dohodli, tak mě nekontaktuj!</Czech>
+			</Key>	
+			<Key ID="STR_traderChat_PaymentComplete">
+				<English>My guys just checked your payment and it’s all there. You can go pick-up your stuff. Contact me when you’re done so we can finish this deal.</English>
+				<Czech>Moji hoši právě zkontrolovali platbu a vše je v pořádku. Můžeš si jít vyzvednout své věci. Kontaktuj mě až se vrátíš ať můžeme obchod uzavřít.</Czech>
+			</Key>	
+			<Key ID="STR_traderChat_DealCompleteNotify">
+				<English>All done from my side. Thanks!</English>
+				<Czech>Vše hotovo. Díky!</Czech>
+			</Key>		
+			<Key ID="STR_traderChat_DealCompleteAnswer">
+				<English>Affirmative. Pleasure dealing with you. Come back soon and take care out there!</English>
+				<Czech>Rozumím. Bylo potěšení s tebou obchodovat. Rád tě zase uvidí a dávej si tam pozor!</Czech>
+			</Key>		
+			<Key ID="STR_traderChat_Fail">
+				<English>Sorry you missed your chance. My guys combed over everything that was left. Better luck next time!</English>
+				<Czech>Promarnil si svoji příležitost. Moji hoši sebrali vše co zůstalo. Příště víc štěstí!</Czech>
+			</Key>
+			<Key ID="STR_traderDeliverTask">
+				<English>Deliver following stuff at designated crate to make payment then contact me so I can pickup and check payment. After payment is completed You can pick up your stuff at same crate.</English>
+				<Czech>Doruč platbu do dohodnuté bedny a pak mě kontaktuj ať mohu platbu vyzvednout a zkontrolovat. Poté, co bude platba kompletní, si můžeš u té samé bedny vyzvednout svoje vě</Czech>
+			</Key>
+			<Key ID="STR_traderDeliverTaskPayment">
+				<English>Items to deliver</English>
+				<Czech>Položky k platbě</Czech>
+			</Key>
+			<Key ID="STR_traderDeliverTaskPurchase">
+				<English>Items to pick-up</English>
+				<Czech>Položky k vyzvednutí</Czech>
+			</Key>
+			<Key ID="STR_traderPickupTask">
+				<English>Pick-up your stuff at designated crate then contact me to finish this deal.</English>
+				<Czech>Vyzvedni si svoje věci u dohodnuté bedny a pak mě kontaktuj ať obchod dokončíme.</Czech>
+			</Key>
+			<Key ID="STR_traderPickupTaskPurchase">
+				<English>Items to pick-up</English>
+				<Czech>Položky k vyzvednutí</Czech>
+			</Key>
+			<Key ID="STR_TraderContact">
+				<English>Contact trader</English>
+				<Czech>Kontaktuj obchodníka</Czech>
+			</Key>
+			<Key ID="STR_traderPaymentDoneTask">
+				<English>Notify trader about finished payment.</English>
+				<Czech>Oznam obchodníkovy dokončení platby.</Czech>
+			</Key>
+			<Key ID="STR_traderCompleteDealQuestion">
+				<English>Got all your stuff? Ready to finish this deal?</English>
+				<Czech>Máš všechny svoje věci? Připraven ukončit tento obchod?</Czech>
+			</Key>
+			<Key ID="STR_TraderTaskHint">
+				<English>Open MAP>TASKS for deal details.</English>
+				<Czech>Pro informace o obchodu otevři MAPA>ÚKOLY.</Czech>
+			</Key>
+			<Key ID="STR_TraderDiscountInfo">
+				<English>New trader loyalty discount %1%2.</English>
+				<Czech>Nová věrnostní sleva u obchodníka %1%2.</Czech>
+			</Key>
+		</Container>
+	</Package>
+</Project>
+
+
+
+
+
+
+
+

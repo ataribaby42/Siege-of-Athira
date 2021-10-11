@@ -18,10 +18,12 @@ private _timeInRaid = gTimer - (_unit getVariable["startTime", 0]);
 private _handleTrader = [false, false] execVM "scripts\traderUpdateDeal.sqf";
 waitUntil {scriptDone _handleTrader};
 
+/*
 if(gPersistentTime) then
 {
 	[["date", date]] call fnc_saveData;
 };
+*/
 
 private _raids = ["raids", 0] call fnc_loadData;
 _raids = _raids + 1;

@@ -1,3 +1,6 @@
+v2.30
+* Replaced missionStart with new systemTime to get real system time in MP and SP (starting mission time always corresponds to your system time now)
+
 v2.21
 * Removed all trader crates that require crossing now live minefield
 

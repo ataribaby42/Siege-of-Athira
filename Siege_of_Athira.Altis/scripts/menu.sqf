@@ -524,10 +524,12 @@ player removeAllEventHandlers "InventoryClosed";
 [player, false] call fnc_savePlayer;
 [_crate] call fnc_saveStash;
 
+/*
 if(gPersistentTime) then
 {
 	[["date", date]] call fnc_saveData;
 };
+*/
 
 saveProfileNamespace;
 

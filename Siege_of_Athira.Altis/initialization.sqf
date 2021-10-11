@@ -1,7 +1,7 @@
 ["MENU",false] call bis_fnc_blackOut;
 0 fadeSound 0; 
 
-gVersion = "2.21";
+gVersion = "2.30";
 MISSION_ROOT = getMissionPath "";
 
 //client mode

@@ -2,8 +2,10 @@ private _realtime = _this;
 
 waitUntil {time > 0};
 
-if(gPersistentTime) then
+//if(gPersistentTime) then
+if(gSinglePlayerTime) then
 {
+	/*
 	private _date = [];
 	private _label = gSavePrefix + "_sp";
 	private _varname = _label + "_data";
@@ -20,16 +22,26 @@ if(gPersistentTime) then
 	};
 
 	setDate _date;
+	*/
+
+	private _date = systemTime;
+	private _year = gRealtimeServerTimeYear;
+	private _month = _date select 1;
+	private _day = _date select 2;
+	private _hours = _date select 3;
+	private _seconds = _date select 4;
+	setDate [_year, _month, _day, _hours, _seconds];
 }
 else
 {
 	if(_realtime) then
 	{
+		private _date = systemTime;
 		private _year = gRealtimeServerTimeYear;
-		private _month = missionStart select 1;
-		private _day = missionStart select 2;
-		private _hours = missionStart select 3;
-		private _seconds = missionStart select 4;
+		private _month = _date select 1;
+		private _day = _date select 2;
+		private _hours = _date select 3;
+		private _seconds = _date select 4;
 		setDate [_year, _month, _day, _hours, _seconds];
 	}
 	else

@@ -1,6 +1,7 @@
 if (gClientMode == "SINGLEPLAYER") then
 {
-	gPersistentTime = true;
+	//gPersistentTime = true;
+	gSinglePlayerTime = true;
 	false execVM "scripts\setTime.sqf";
 	execVM "scripts\setWeather.sqf";
 };

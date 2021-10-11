@@ -17,7 +17,8 @@ if(_startTime > 0) then
 	if(_startTime == 9) then {gRandomMissionStartTimes = [[2036, 1, 15, 2, 0]];};
 };
 
-gPersistentTime = false;
+//gPersistentTime = false;
+gSinglePlayerTime = false;
 gRealtimeServerTimeYear = 2035;
 gForceFirstPerson = [false,true] select ("soaForceFirstPerson" call BIS_fnc_getParamValue);
 gExtractionTime = 20; //seconds
